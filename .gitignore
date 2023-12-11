@@ -1,0 +1,20 @@
+
+# =========================
+# Wordpress core
+# =========================
+/wordpress/*
+!/wordpress/.gitignore
+!/wordpress/wp-content/
+/wordpress/wp-content/*
+!/wordpress/wp-content/themes/
+/wordpress/wp-content/themes/*
+!/wordpress/wp-content/plugins/
+/wordpress/wp-content/plugins/*
+
+
+# =========================
+# Do projeto
+# =========================
+!/wordpress/favicon.ico
+# !/wordpress/wp-content/theme/theme-name/
+# !/wordpress/wp-content/plugins/plugin-name/
