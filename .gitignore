@@ -16,5 +16,5 @@
 # Do projeto
 # =========================
 !/wordpress/favicon.ico
-# !/wordpress/wp-content/theme/theme-name/
-# !/wordpress/wp-content/plugins/plugin-name/
+!/wordpress/wp-content/themes/theme-child/
+!/wordpress/wp-content/plugins/plugin-name/

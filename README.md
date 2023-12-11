@@ -20,3 +20,10 @@ Este modelo permite criar plugins e/ou temas filhos para Wordpress.
 docker-compose up -d
 docker-compose down
 ```
+
+
+### Referências
+
+[Theme Handhook - Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
+
+[DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate/)
